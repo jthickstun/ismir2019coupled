@@ -13,8 +13,6 @@ For examples of how to generate output from the model in audio, kern, and midi r
 
 ## Dependencies
 
-Dependencies are inherited from the NCSN and Glow projects. For NCSN:
-
 * PyTorch (tested with v1.5.0)
 
 * Jupyter (tested with v4.4.0)
