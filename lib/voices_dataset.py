@@ -183,6 +183,22 @@ class VoicesDataset(Dataset):
                 loc[p] -= t[i,p]
         return x,y,yt
 
+    def to_notes(self, e, t, f):
+        e = np.pad(e,[(0,0),(0,0),(self.offset,128-(self.offset+self.m))],'constant')
+        t = 48*self.dur_map[np.argmax(t,axis=2)]
+
+        notes = [] 
+        part_time = np.zeros(6)
+        for p in range(e.shape[0]):
+            for j in range(6):
+                if t[p,j] == 0: continue # continuation
+                for n in range(128):
+                    if e[p,j,n] == 0: continue
+                    notes.append([n,j,int(part_time[j]),int(part_time[j]+t[p,j])])
+                part_time[j] += t[p,j]
+
+        return notes
+
     def decode_duration(self,t):
         if np.sum(t) > 1: return 'INVALID'
         if np.sum(t) == 0: return 'O' # masked
