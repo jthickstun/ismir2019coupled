@@ -165,7 +165,7 @@ class VoicesModel(BaseModel):
                                                   f[:len(updates),-1].contiguous(),
                                                   loc[:len(updates)],
                                                   c[:len(updates)]),dim=1)
-                dts = torch.multinomial(p).data[:,0]
+                dts = torch.multinomial(p, num_samples=1).data[:,0]
                 for i,score in enumerate(updates):
                     t[i,-1,0,3+dts[i]] = 1
                     frontier[score,part] += 48*self.dur_map[3+dts[i]]

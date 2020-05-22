@@ -146,7 +146,7 @@ class PartsModel(BaseModel):
             p = F.softmax(self.predict_rhythm(events[:,k-self.context:k].contiguous(),
                                               times[:,k-self.context:k].contiguous(),
                                               locs),dim=1)
-            dts = torch.multinomial(p).data[:,0]
+            dts = torch.multinomial(p, num_samples=1).data[:,0]
             for part in range(parts):
                 times[part,k,dts[part]] = 1
                 T[part] += self.dur_map[dts[part]]
