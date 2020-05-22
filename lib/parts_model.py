@@ -38,7 +38,7 @@ class PartsModel(BaseModel):
 
         time_nats = torch.nn.functional.cross_entropy(yht,yt.max(1)[1])
         note_nats = self.m*torch.nn.functional.binary_cross_entropy_with_logits(yhn,y)
-        nats_per_event = torch.cat([time_nats,note_nats])
+        nats_per_event = torch.stack([time_nats,note_nats])
 
         # (events/beat) x (nats/event) x (bits/nat) = bits/beat
         return events_per_beat*nats_per_event*(1/np.log(2))
@@ -56,7 +56,7 @@ class PartsModel(BaseModel):
         return e,t,y,yt,loc
 
     def compute_stats(self, loader):
-        loss = 0
+        loss = torch.zeros(2).cuda()
         batch = loader.batch_size
         note_predictions = np.empty([len(loader)*batch,self.m])
         time_predictions = np.empty(len(loader)*batch,dtype=np.int32)

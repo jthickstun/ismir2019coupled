@@ -232,7 +232,7 @@ class VoicesDataset(Dataset):
     def create_dataset(self):
         data_path = os.path.join(self.data_dir,self.data_file)
         if os.path.isfile(data_path):
-            data = dict(np.load(data_path))
+            data = dict(np.load(data_path, allow_pickle=True))
             self.dur_map = data.pop('_dur_map')
             self.maxdur = len(self.dur_map)-3
             self.offset = int(data.pop('_min_note'))

@@ -41,7 +41,7 @@ class BaseModel(torch.nn.Module):
         self.avg = avg
         self.averages = copy.deepcopy(list(parm.data for parm in self.parameters()))
         for (name,parm),pavg in zip(self.named_parameters(),self.averages):
-            self.register_buffer(name + '.avg', pavg)
+            self.register_buffer(name + '$avg', pavg)
             self.register_statistic('|{}|'.format(name),False,format_str='{<8.0f}')
 
         self.count_parameters(verbose=True)
@@ -76,7 +76,7 @@ class BaseModel(torch.nn.Module):
     def restore_checkpoint(self):
         for stat in self.stats:
             with open(os.path.join(self.cp, stat + '.npy'), 'rb') as f:
-                self.stats[stat][2] = np.load(f).item()
+                self.stats[stat][2] = np.load(f, allow_pickle=True).item()
 
         self.iter = sorted(self.stats['iter'][2])[-1]
         self.load_state_dict(torch.load(os.path.join(self.cp,'checkpoint.pt')))
@@ -87,7 +87,7 @@ class BaseModel(torch.nn.Module):
 
         for name,parm in self.named_parameters():
             if parm.requires_grad:
-                self._tmp_stats['|{}|'.format(name)] = parm.norm().data[0]
+                self._tmp_stats['|{}|'.format(name)] = parm.norm().item()
 
         self._tmp_stats['time'] = time() - last_time
         self._tmp_stats['utime'] = time() - update_time
