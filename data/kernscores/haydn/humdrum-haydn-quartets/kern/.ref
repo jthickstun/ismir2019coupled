@@ -1,0 +1,402 @@
+@dummy	001000	<br><font size=+1><b>Opus 1</b></font><hr noshade align=left width=500>
+
+@001001:001002:001003:001004:001005	001000a	<not>String</not> Quartet in E-flat Major, op. 1, no. 0, Hob. II:6 [1765]
+op01n0-01.krn	001001	1. <hlstart>Presto<hlend>
+op01n0-02.krn	001002	2. <hlstart>Menuetto I<hlend> 
+op01n0-03.krn	001003	3. <hlstart>Adagio<hlend>
+op01n0-04.krn	001004	4. <hlstart>Menuetto II<hlend>
+op01n0-05.krn	001005	5. <hlstart>Presto<hlend>
+
+@001011:001012:001013:001014:001015	001010	<not>String</not> Quartet in B-flat Major ("The Hunt"), op. 1, no. 1, Hob. III:1 
+op01n1-01.krn	001011	1. <hlstart>Allegro<hlend>
+op01n1-02.krn	001012	2. <hlstart>Menuetto I<hlend>
+op01n1-03.krn	001013	3. <hlstart>Adagio<hlend>
+op01n1-04.krn	001014	4. <hlstart>Menuetto II<hlend>
+op01n1-05.krn	001015	5. <hlstart>Presto<hlend>
+
+@001021:001022:001023:001024:001025	001020	<not>String</not> Quartet in E-flat Major, op. 1, no. 2, Hob. III:2
+op01n2-01.krn	001021	1. <hlstart>Allegro molto<hlend>
+op01n2-02.krn	001022	2. <hlstart>Menuetto I<hlend>
+op01n2-03.krn	001023	3. <hlstart>Adagio<hlend>
+op01n2-04.krn	001024	4. <hlstart>Menuetto II<hlend>
+op01n2-05.krn	001025	5. <hlstart>Presto<hlend>
+
+@001031:001032:001033:001034:001035	001030	<not>String</not> Quartet in D Major, op. 1, no. 3, Hob. III:3
+op01n3-01.krn	001031	1. <hlstart>Adagio<hlend>
+op01n3-02.krn	001032	2. <hlstart>Menuetto I<hlend>
+op01n3-03.krn	001033	3. <hlstart>Presto<hlend>
+op01n3-04.krn	001034	4. <hlstart>Menuetto II<hlend>
+op01n3-05.krn	001035	5. <hlstart>Presto<hlend>
+
+@001041:001042:001043:001044:001045	001040	<not>String</not> Quartet no. 4 in G Major, Hob. III:4
+op01n4-01.krn	001041	1. <hlstart>Presto<hlend>
+op01n4-02.krn	001042	2. <hlstart>Menuetto I<hlend>
+op01n4-03.krn	001043	3. <hlstart>Adagio<hlend>
+op01n4-04.krn	001044	4. <hlstart>Menuetto II<hlend>
+op01n4-05.krn	001045	5. <hlstart>Presto<hlend>
+
+@001061:001062:001063:001064:001065	001060	<not>String</not> Quartet no. 6 in C Major, Hob. III:6
+op01n6-01.krn	001061	1. <hlstart>Presto assai<hlend>
+op01n6-02.krn	001062	2. <hlstart>Menuetto I<hlend>
+op01n6-03.krn	001063	3. <hlstart>Adagio<hlend>
+op01n6-04.krn	001064	4. <hlstart>Menuetto II<hlend>
+op01n6-05.krn	001065	5. <hlstart>Finale: Presto<hlend>
+
+@dummy	009000	<br><font size=+1><b>Opus 9</b></font><hr noshade align=left width=500>
+
+@009011:009012:009013:009014	009010	<not>String</not> Quartet in C major, op. 9, no. 1, H III:19
+
+@009021:009022:009023:009024	009020	<not>String</not> Quartet in E-flat major, op. 9, no. 2, H III:20
+op09n2-01.krn	009021	1. <hlstart>Moderato<hlend>
+op09n2-02.krn	009022	2. <hlstart>Menuetto<hlend>
+op09n2-03.krn	009023	3. <hlstart>Adagio<hlend>
+op09n2-04.krn	009024	4. <hlstart>Finale: Allegro molto<hlend>
+
+@009031:009032:009033:009034	009030	<not>String</not> Quartet in G major, op. 9, no. 3, H III:21
+op09n3-01.krn	009031	1. <hlstart>Moderato<hlend>
+op09n3-02.krn	009032	2. <hlstart>Menuetto<hlend>
+op09n3-03.krn	009033	3. <hlstart>Largo<hlend>
+op09n3-04.krn	009034	4. <hlstart>Presto<hlend>
+
+@009041:009042:009043:009044	009040	<not>String</not> Quartet in D minor, op. 9, no. 4, H III:22
+@009051:009052:009053:009054	009050	<not>String</not> Quartet in B-flat major, op. 9, no. 5, H III:23
+@009061:009062:009063:009064	009060	<not>String</not> Quartet in A major, op. 9, no. 6, H III:24
+
+@dummy	017009	<br><font size=+1><b>Opus 17</b></font> [1771]<hr noshade align=left width=500>
+
+@017011:017012:017013:017014	017010	<not>String</not> Quartet in E major, op. 17, no. 1, H III:25
+op17n1-01.krn	017011	1. <hlstart>Presto<hlend>
+op17n1-02.krn	017012	2. <hlstart>Menuetto<hlend>
+op17n1-03.krn	017013	3. <hlstart>Adagio<hlend>
+op17n1-04.krn	017014	4. <hlstart>Finale: Presto<hlend>
+
+@017021:017022:017023:017024	017020	<not>String</not> Quartet in F major, op. 17, no. 2, H III:26
+op17n2-01.krn	017021	1. <hlstart>Moderato<hlend>
+op17n2-02.krn	017022	2. <hlstart>Menuetto: Poco allegretto<hlend>
+op17n2-03.krn	017023	3. <hlstart>Adagio<hlend>
+op17n2-04.krn	017024	4. <hlstart>Finale: Allegro di molto<hlend>
+
+@017031:017032:017033:017034	017030	<not>String</not> Quartet in E-flat major, op. 17, no. 3, H III:27
+op17n3-01.krn	017031	1. <hlstart>Andante grazioso<hlend>
+op17n3-02.krn	017032	2. <hlstart>Menuetto: Allegretto<hlend>
+op17n3-03.krn	017033	3. <hlstart>Adagio<hlend>
+op17n3-04.krn	017034	4. <hlstart>Allegro di molto<hlend>
+
+@017041:017042:017043:017044	017040	<not>String</not> Quartet in C minor, op. 17, no. 4, H III:28
+op17n4-01.krn	017041	1. <hlstart>Andante grazioso<hlend>
+op17n4-02.krn	017042	2. <hlstart>Menuetto: Allegretto<hlend>
+op17n4-03.krn	017043	3. <hlstart>Adagio<hlend>
+op17n4-04.krn	017044	4. <hlstart>Allegro di molto<hlend>
+
+@017051:017052:017053:017054	017050	<not>String</not> Quartet in G major, "Recitative", op. 17, no. 5, H III:29
+op17n5-01.krn	017051	1. <hlstart>Moderato<hlend>
+op17n5-02.krn	017052	2. <hlstart>Menuetto: Allegretto<hlend>
+op17n5-03.krn	017053	3. <hlstart>Adagio<hlend>
+op17n5-04.krn	017054	4. <hlstart>Finale: Presto<hlend>
+
+@017061:017062:017063:017064	017060	<not>String</not> Quartet in D major, op. 17, no. 6, H III:30
+op17n6-01.krn	017061	1. <hlstart>Presto<hlend>
+op17n6-02.krn	017062	2. <hlstart>Menuetto<hlend>
+op17n6-03.krn	017063	3. <hlstart>Largo<hlend>
+op17n6-04.krn	017064	4. <hlstart>Finale: Allegro<hlend>
+
+@dummy	020000	<br><font size=+1><b>Opus 20</b></font> [1771]<hr noshade align=left width=500>
+
+@020011:020012:020013:020014	020010	<not>String</not> Quartet in E-flat major, op. 20, no. 1, H III:31
+op20n1-01.krn	020011	1. <hlstart>Allegro moderato<hlstart>
+op20n1-02.krn	020012	2. <hlstart>Menuetto: un poco allegretto<hlstart>
+op20n1-03.krn	020013	3. <hlstart>Affettuoso e sosteunto<hlstart>
+op20n1-04.krn	020014	4. <hlstart>Finale: Presto<hlstart>
+
+@020021:020022:020023:020024	020020	<not>String</not> Quartet in C major, op. 20, no. 2, H III:32
+op20n2-01.krn	020021	1. <hlstart>Moderato<hlend>
+op20n2-02.krn	020022	2. <hlstart>Capriccio: Adagio<hlend>
+op20n2-03.krn	020023	3. <hlstart>Menuetto: Allegretto<hlend>
+op20n2-04.krn	020024	4. <hlstart>Fuga a quattro soggeti: Allegro<hlend>
+
+@020031:020032:020033:020034	020030	<not>String</not> Quartet in G minor, op. 20, no. 3, H III:33
+op20n3-01.krn	020031	1. <hlstart>Allegro con spirito<hlend>
+op20n3-02.krn	020032	2. <hlstart>Menuetto: Allegretto<hlend>
+op20n3-03.krn	020033	3. <hlstart>Poco adagio<hlend>
+op20n3-04.krn	020034	4. <hlstart>Allegro di molto<hlend>
+
+@020041:020042:020043:020044	020040	<not>String</not> Quartet in D major, op. 20, no. 4, H III:34
+op20n4-01.krn	020041	1. <hlstart>Allegro di molto<hlend>
+op20n4-02.krn	020042	2. <hlstart>Poco adagio e affettuoso<hlend>
+op20n4-03.krn	020043	3. <hlstart>Menuetto alla zingarese<hlend>
+op20n4-04.krn	020044	4. <hlstart>Presto e scherzando<hlend>
+
+@020051:020052:020053:020054	020050	<not>String</not> Quartet in F minor, op. 20, no. 5, H III:35
+op20n5-01.krn	020051	1. <hlstart>Moderato<hlend>
+op20n5-02.krn	020052	2. <hlstart>Menuetto<hlend>
+op20n5-03.krn	020053	3. <hlstart>Adagio<hlend>
+op20n5-04.krn	020054	4. <hlstart>Fuga a due soggetti<hlend>
+
+@020061:020062:020063:020064	020060	<not>String</not> Quartet in A major, op. 20, no. 6, H III:36
+op20n6-01.krn	020061	1. <hlstart>Allegro di molto e scherzando<hlend>
+op20n6-02.krn	020062	2. <hlstart>Adagio<hlend>
+op20n6-03.krn	020063	3. <hlstart>Menuetto<hlend>
+op20n6-04.krn	020064	4. <hlstart>Fuga a tre soggetti: Allegro<hlend>
+
+@dummy	033000	<br><font size=+1><b>Opus 33</b></font> [1781]<hr noshade align=left width=500>
+
+@033011:033012:033013:033014	033010	<not>String</not> Quartet in B minor, op. 33, no. 1, H III:37
+op33n1-01.krn	033011	1. <hlstart>Allegro moderato<hlend>
+op33n1-02.krn	033012	2. <hlstart>Scherzo: Allegro<hlend>
+op33n1-03.krn	033013	3. <hlstart>Andante<hlend>
+op33n1-04.krn	033014	4. <hlstart>Presto<hlend>
+
+@033021:033022:033023:033024	033020	<not>String</not> Quartet in E-flat major, "The Joke", op. 33, no. 2, H III:38
+op33n2-01.krn	033021	1. <hlstart>Allegro moderato, cantabile<hlend>
+op33n2-02.krn	033022	2. <hlstart>Scherzo: Allegro<hlend>
+op33n2-03.krn	033023	3. <hlstart>Largo sostenuto<hlend>
+op33n2-04.krn	033024	4. <hlstart>Finale: Presto<hlend>
+
+@033031:033032:033033:033034	033030	<not>String</not> Quartet in C major, "The Bird", op. 33, no. 3, H III:39
+op33n3-01.krn	033031	1. <hlstart>Allegro moderato<hlend>
+op33n3-02.krn	033032	2. <hlstart>Scherzo: Allegretto<hlend>
+op33n3-03.krn	033033	3. <hlstart>Adagio<hlend>
+op33n3-04.krn	033034	4. <hlstart>Finale: Rondo. Presto<hlend>
+
+@033041:033042:033043:033044	033040	<not>String</not> Quartet in B-flat major, op. 33, no. 4, H III:40
+op33n4-01.krn	033041	1. <hlstart>Allegro moderato<hlend>
+op33n4-02.krn	033042	2. <hlstart>Scherzo: Allegretto<hlend>
+op33n4-03.krn	033043	3. <hlstart>Largo<hlend>
+op33n4-04.krn	033044	4. <hlstart>Presto<hlend>
+
+@033051:033052:033053:033054	033050	<not>String</not> Quartet in G major, "How do you do?", op. 33, no. 5, H III:41
+op33n5-01.krn	033051	1. <hlstart>Vivace assai<hlend>
+op33n5-02.krn	033052	2. <hlstart>Largo e cantabile<hlend>
+op33n5-03.krn	033053	3. <hlstart>Scherzo: Allegro<hlend>
+op33n5-04.krn	033054	4. <hlstart>Finale: Allegretto<hlend>
+
+@033061:033062:033063:033064	033060	<not>String</not> Quartet in D major, op. 33, no. 6, H III:42
+op33n6-01.krn	033061	1. <hlstart>Vivace assai<hlend>
+op33n6-02.krn	033062	2. <hlstart>Andante<hlend>
+op33n6-03.krn	033063	3. <hlstart>Scherzo: Allegretto<hlend>
+op33n6-04.krn	033064	4. <hlstart>Finale: Allegretto<hlend>
+
+@dummy	042000	<br><font size=+1><b>Opus 42</b></font> [1785]<hr noshade align=left width=500>
+
+@042011:042012:042013:042014	042010	<not>String</not> Quartet in D minor, op. 42, H III:43
+op42-01.krn	042011	1. <hlstart>Andante ed innocentemente<hlend>
+op42-02.krn	042012	2. <hlstart>Menuetto<hlend>
+op42-03.krn	042013	3. <hlstart>Adagio e cantabile<hlend>
+op42-04.krn	042014	4. <hlstart>Finale: Presto<hlend>
+
+@dummy	050000	<br><font size=+1><b>Opus 50</b></font> ("Prussian") <hr noshade align=left width=500>
+
+@050011:050012:050013:050014	050010	<not>String</not> Quartet in B-flat major, op. 50, no. 1, H III:44
+op50n1-01.krn	050011	1. <hlstart>Allegro<hlend>
+op50n1-02.krn	050012	2. <hlstart>Adagio non lento<hlend>
+op50n1-03.krn	050013	3. <hlstart>Poco allegretto<hlend>
+op50n1-04.krn	050014	4. <hlstart>Finale: Vivace<hlend>
+
+@050021:050022:050023:050024	050020	<not>String</not> Quartet in C major, op. 50, no. 2, H III:45
+op50n2-01.krn	050021	1. <hlstart>Vivace<hlend>
+op50n2-02.krn	050022	2. <hlstart>Adagio cantabile<hlend>
+op50n2-03.krn	050023	3. <hlstart>Menuetto: Allegretto<hlend>
+op50n2-04.krn	050024	4. <hlstart>Finale: Vivace assai<hlend>
+
+@050031:050032:050033:050034	050030	<not>String</not> Quartet in E-flat major, op. 50, no. 3, H III:46
+op50n3-01.krn	050031	1. <hlstart>Allegro con brio<hlend>
+op50n3-02.krn	050032	2. <hlstart>Andante pi&ugrave; tosto allegretto<hlend>
+op50n3-03.krn	050033	3. <hlstart>Menuetto: Allegretto<hlend>
+op50n3-04.krn	050034	4. <hlstart>Finale<hlend>
+
+@050041:050042:050043:050044	050040	<not>String</not> Quartet in F-sharp major, op. 50, no. 4, H III:47
+op50n4-01.krn	050041	1. <hlstart>Allegro spirito<hlend>
+op50n4-02.krn	050042	2. <hlstart>Andante<hlend>
+op50n4-03.krn	050043	3. <hlstart>Menuetto: Poco allegretto<hlend>
+op50n4-04.krn	050044	4. <hlstart>Finale: Fuga. Allegro moderato<hlend>
+
+@050051:050052:050053:050054	050050	<not>String</not> Quartet in F major, op. 50, no. 5, H III:48
+op50n5-01.krn	050051	1. <hlstart>Allegro moderato<hlend>
+op50n5-02.krn	050052	2. <hlstart>Poco adagio "Ein Traum"<hlend>
+op50n5-03.krn	050053	3. <hlstart>Menuetto<hlend>
+op50n5-04.krn	050054	4. <hlstart>Finale: Vivace<hlend>
+
+@050061:050062:050063:050064	050060	<not>String</not> Quartet in D major, "The Frog", op. 50, no. 6, H III:49
+op50n6-01.krn	050061	1. <hlstart>Allegro<hlend>
+op50n6-02.krn	050062	2. <hlstart>Poco adagio<hlend>
+op50n6-03.krn	050063	3. <hlstart>Menuetto: Allegretto<hlend>
+op50n6-04.krn	050064	4. <hlstart>Finale: Allegro con spirito<hlend>
+
+@dummy	054000	<br><font size=+1><b>Opus 54</b></font> ("Tost" I)<hr noshade align=left width=500>
+
+@054011:054012:054013:054014	054010	<not>String</not> Quartet in G major, op. 54, no. 1, H III:58
+op54n1-01.krn	054011	1. <hlstart>Vivace assai<hlend>
+op54n1-02.krn	054012	2. <hlstart>Allegretto<hlend>
+op54n1-03.krn	054013	3. <hlstart>Menuetto<hlend>
+op54n1-04.krn	054014	4. <hlstart>Vivace<hlend>
+
+@054021:054022:054023:054024	054020	<not>String</not> Quartet in G major, op. 54, no. 2, H III:57
+op54n2-01.krn	054021	1. <hlstart>Vivace<hlend>
+op54n2-02.krn	054022	2. <hlstart>Adagio<hlend>
+op54n2-03.krn	054023	3. <hlstart>Menetto: Allegretto<hlend>
+op54n2-04.krn	054024	4. <hlstart>Finale: Adagio&mdash;Presto&mdash;Adagio<hlend>
+
+@054031:054032:054033:054034	054030	<not>String</not> Quartet in G major, op. 54, no. 3, H III:59
+op54n3-01.krn	054031	1. <hlstart>Allegretto<hlend>
+op54n3-02.krn	054032	2. <hlstart>Largo<hlend>
+op54n3-03.krn	054033	3. <hlstart>Menuetto: Allegretto<hlend>
+op54n3-04.krn	054034	4. <hlstart>Finale: Presto<hlend>
+
+@dummy	055000	<br><font size=+1><b>Opus 55</b></font> ("Tost" II)<hr noshade align=left width=500>
+
+@055011:055012:055013:055014	055010	<not>String</not> Quartet in A major, op. 55, no. 1, H III:60
+op55n1-01.krn	055011	1. <hlstart>Allegro<hlend>
+op55n1-02.krn	055012	2. <hlstart>Adagio cantabile<hlend>
+op55n1-03.krn	055013	3. <hlstart>Menuetto<hlend>
+op55n1-04.krn	055014	4. <hlstart>Finale: Vivace<hlend>
+
+@055021:055022:055023:055024	055020	<not>String</not> Quartet in F minor, "The Razor", op. 55, no. 2, H III:61
+op55n2-01.krn	055021	1. <hlstart>Andante<hlend>
+op55n2-02.krn	055022	2. <hlstart>Allegro<hlend>
+op55n2-03.krn	055023	3. <hlstart>Menuetto: Allegretto<hlend>
+op55n2-04.krn	055024	4. <hlstart>Presto<hlend>
+
+@055031:055032:055033:055034	055030	<not>String</not> Quartet in B-flat major, op. 55, no. 3, H III:62
+op55n3-01.krn	055031	1. <hlstart>Vivace assai<hlend>
+op55n3-02.krn	055032	2. <hlstart>Adagio ma non troppo<hlend>
+op55n3-03.krn	055033	3. <hlstart>Menuetto<hlend>
+op55n3-04.krn	055034	4. <hlstart>Finale: Presto<hlend>
+
+@dummy	064000	<br><font size=+1><b>Opus 64</b></font> ("Tost" III) <hr noshade align=left width=500>
+
+@064011:064012:064013:064014	064010	<not>String</not> Quartet in C major, op. 64, no. 1, H III:65
+op64n1-01.krn	064011	1. <hlstart>Allegro moderato<hlend>
+op64n1-02.krn	064012	2. <hlstart>Menuetto: Allegro ma non troppo<hlend>
+op64n1-03.krn	064013	3. <hlstart>Menuetto: Allegretto<hlend>
+op64n1-04.krn	064014	4. <hlstart>Finale: Presto<hlend>
+
+@064021:064022:064023:064024	064020	<not>String</not> Quartet in B minor, op. 64, no. 2, H III:68
+op64n2-01.krn	064021	1. <hlstart>Allegro spirito<hlend>
+op64n2-02.krn	064022	2. <hlstart>Adagio ma non troppo<hlend>
+op64n2-03.krn	064023	3. <hlstart>Menuetto: Allegretto<hlend>
+op64n2-04.krn	064024	4. <hlstart>Finale: Presto<hlend>
+
+@064031:064032:064033:064034	064030	<not>String</not> Quartet in B-flat major, op. 64, no. 3, H III:67
+op64n3-01.krn	064031	1. <hlstart>Vivace assai<hlend>
+op64n3-02.krn	064032	2. <hlstart>Adagio<hlend>
+op64n3-03.krn	064033	3. <hlstart>Menuetto: Allegretto<hlend>
+op64n3-04.krn	064034	4. <hlstart>Finale: Allegro con spirito<hlend>
+
+@064041:064042:064043:064044	064040	<not>String</not> Quartet in G major, "The Lark", op. 64, no. 4, H III:66
+op64n4-01.krn	064041	1. <hlstart>Allegro con brio<hlend>
+op64n4-02.krn	064042	2. <hlstart>Menuetto<hlend>
+op64n4-03.krn	064043	3. <hlstart>Adagio cantabile sostenuto<hlend>
+op64n4-04.krn	064044	4. <hlstart>Finale: Presto<hlend>
+
+@064051:064052:064053:064054	064050	<not>String</not> Quartet in D major, op. 64, no. 5, H III:63
+op64n5-01.krn	064051	1. <hlstart>Allegro moderato<hlend>
+op64n5-02.krn	064052	2. <hlstart>Adagio<hlend>
+op64n5-03.krn	064053	3. <hlstart>Menuetto: Allegretto<hlend>
+op64n5-04.krn	064054	4. <hlstart>Finale: Vivace<hlend>
+
+@064061:064062:064063:064064	064060	<not>String</not> Quartet in E-flat major, op. 64, no. 6, H III:64
+op64n6-01.krn	064061	1. <hlstart>Allegro<hlend>
+op64n6-02.krn	064062	2. <hlstart>Andante<hlend>
+op64n6-03.krn	064063	3. <hlstart>Menuetto: Allegretto<hlend>
+op64n6-04.krn	064064	4. <hlstart>Finale: Presto<hlend>
+
+@dummy	071000	<br><font size=+1><b>Opus 71</b></font> ("Apponyi")<hr noshade align=left width=500>
+
+@071011:071012:071013:071014	071010	<not>String</not> Quartet in B-flat major, op. 71, no. 1, H III:69
+op71n1-01.krn	071011	1. <hlstart>Allegro<hlend>
+op71n1-02.krn	071012	2. <hlstart>Adagio<hlend>
+op71n1-03.krn	071013	3. <hlstart>Menuetto: Allegretto<hlend>
+op71n1-04.krn	071014	4. <hlstart>Vivace<hlend>
+
+@071021:071022:071023:071024	071020	<not>String</not> Quartet in D major, op. 71, no. 2, H III:70
+op71n2-01.krn	071021	1. <hlstart>Adagio -- Allegro<hlend>
+op71n2-02.krn	071022	2. <hlstart>Adagio cantabile<hlend>
+op71n2-03.krn	071023	3. <hlstart>Menuetto: Allegro<hlend>
+op71n2-04.krn	071024	4. <hlstart>Finale: Allegretto -- Vivace<hlend>
+
+@071031:071032:071033:071034	071030	<not>String</not> Quartet in E-flat major, op. 71, no. 3, H III:71
+op71n3-01.krn	071031	1. <hlstart>Vivace<hlend>
+op71n3-02.krn	071032	2. <hlstart>Andante con moto<hlend>
+op71n3-03.krn	071033	3. <hlstart>Menuetto<hlend>
+op71n3-04.krn	071034	4. <hlstart>Finale: Vivace<hlend>
+
+@dummy	074000	<br><font size=+1><b>Opus 74</b></font> ("Apponyi")<hr noshade align=left width=500>
+
+@074011:074012:074013:074014	074010	<not>String</not> Quartet in C major, op. 74, no. 1, H III:72
+op74n1-01.krn	074011	1. <hlstart>Allegro moderato<hlend>
+op74n1-02.krn	074012	2. <hlstart>Andantino grazioso<hlend>
+op74n1-03.krn	074013	3. <hlstart>Menuetto: Allegretto<hlend>
+op74n1-04.krn	074014	4. <hlstart>Finale: Vivace<hlend>
+
+@074021:074022:074023:074024	074020	<not>String</not> Quartet in F major, "The Military", op. 74, no. 2, H III:73
+op74n2-01.krn	074021	1. <hlstart>Allegro spirito<hlend>
+op74n2-02.krn	074022	2. <hlstart>Andante grazioso<hlend>
+op74n2-03.krn	074023	3. <hlstart>Menuetto: Allegro<hlend>
+op74n2-04.krn	074024	4. <hlstart>Finale: Presto<hlend>
+
+@074031:074032:074033:074034	074030	<not>String</not> Quartet in G minor, "The Rider/Horseman", op. 74, no. 3, H III:74 
+op74n3-01.krn	074031	1. <hlstart>Allegro <hlend>
+op74n3-02.krn	074032	2. <hlstart>Largo assai<hlend>
+op74n3-03.krn	074033	3. <hlstart>Menuetto: Allegretto<hlend>
+op74n3-04.krn	074034	4. <hlstart>Finale: Allegro<hlend>
+
+@dummy	076000	<br><font size=+1><b>Opus 76</b></font> ("Erdody")<hr noshade align=left width=500>
+
+@076011:076012:076013:076014	076010	<not>String</not> Quartet in G major, op. 76, no. 1, H III:75
+op76n1-01.krn	076011	1. <hlstart>Allegro con spirito<hlend>
+op76n1-02.krn	076012	2. <hlstart>Adagio sostenuto<hlend>
+op76n1-03.krn	076013	3. <hlstart>Menuetto: Presto<hlend>
+op76n1-04.krn	076014	4. <hlstart>Allegro ma non troppo<hlend>
+
+@076021:076022:076023:076024	076020	<not>String</not> Quartet in D minor, "Fifths", op. 76, no. 2, H III:76
+op76n2-01.krn	076021	1. <hlstart>Allegro<hlend>
+op76n2-02.krn	076022	2. <hlstart>Andante o pi&ugrave; tosto allegretto<hlend>
+op76n2-03.krn	076023	3. <hlstart>Menuetto: Allegro ma non troppo<hlend> "Witches Minuet"
+op76n2-04.krn	076024	4. <hlstart>Vivace assai<hlend>
+
+@076031:076032:076033:076034	076030	<not>String</not> Quartet in C major, "Emperor", op. 76, no. 3, H III:77
+op76n3-01.krn	076031	1. <hlstart>Allegro<hlend>
+op76n3-02.krn	076032	2. <hlstart>Poco adagio, cantabile<hlend>
+op76n3-03.krn	076033	3. <hlstart>Menuetto: Allegro<hlend>
+op76n3-04.krn	076034	4. <hlstart>Finale: Presto<hlend>
+
+@076041:076042:076043:076044	076040	<not>String</not> Quartet in B-flat major, "Sunrise", op. 76, no. 4, H III:78
+op76n4-01.krn	076041	1. <hlstart>Allegro con spirito<hlend>
+op76n4-02.krn	076042	2. <hlstart>Adagio<hlend>
+op76n4-03.krn	076043	3. <hlstart>Menuetto: Allegro<hlend>
+op76n4-04.krn	076044	4. <hlstart>Finale: Allegro ma non troppo<hlend>
+
+@076051:076052:076053:076054	076050	<not>String</not> Quartet in D major, op. 76, no. 5, H III:79
+op76n5-01.krn	076051	1. <hlstart>Allegrettto<hlend>
+op76n5-02.krn	076052	2. <hlstart>Largo ma non troppo: cantabile e mesto<hlend> "Graveyard Largo"
+op76n5-03.krn	076053	3. <hlstart>Menuetto: Allegro<hlend>
+op76n5-04.krn	076054	4. <hlstart>Finale: Presto<hlend>
+
+@076061:076062:076063:076064	076060	<not>String</not> Quartet in E-flat major, op. 76, no. 6, H III:80
+op76n6-01.krn	076061	1. <hlstart>Allegretto -- Allegro<hlend>
+op76n6-02.krn	076062	2. <hlstart>Fantasia: Adagio<hlend>
+op76n6-03.krn	076063	3. <hlstart>Menuetto: Presto<hlend>
+op76n6-04.krn	076064	4. <hlstart>Finale: Allegro spirituoso<hlend>
+
+@dummy	077000	<br><font size=+1><b>Opus 77</b></font><hr noshade align=left width=500>
+
+@077011:077012:077013:077014	077010	<not>String</not> Quartet in G major, "The Compliment", op. 77, no. 1, H III:81
+op77n1-01.krn	077011	1. <hlstart>Allegro moderato<hlend>
+op77n1-02.krn	077012	2. <hlstart>Adagio<hlend>
+op77n1-03.krn	077013	3. <hlstart>Menuetto: Presto<hlend>
+op77n1-04.krn	077014	4. <hlstart>Finale: Presto<hlend>
+
+@077021:077022:077023:077024	077020	<not>String</not> Quartet in F major, "Wait Till the Clouds Roll by", op. 77, no. 2, H III:82
+op77n2-01.krn	077021	1. <hlstart>Allegro moderato<hlend>
+op77n2-02.krn	077022	2. <hlstart>Menuetto: Presto ma non troppo<hlend>
+op77n2-03.krn	077023	3. <hlstart>Andante<hlend>
+op77n2-04.krn	077024	4. <hlstart>Finale: Vivace assai<hlend>
+
+@dummy	103000	<br><font size=+1><b>Opus 103</b></font><hr noshade align=left width=500>
+
+@103011:103012:103013:103014	103010	<not>String</not> Quartet in D minor, op. 103, H III:83
+op103-01.krn	103011	Movement 1
+op103-02.krn	103012	2. <hlstart>Andante grazioso<hlend>
+op103-03.krn	103013	3. <hlstart>Menuetto ma non troppo. Presto<hlend><hlend>
+
+

@@ -1,0 +1,191 @@
+!!!COM:	Du Fay, Guillaume
+!!!CDT:	~1397/08/05/-1474/11/27
+!!!OTL:	Adieu ces bons vins de Lannoys
+!!!AGN:	Song; Chanson
+!!!SCT:	Duf3016
+!!!SCA:	Duf3016
+!!!voices:	3
+**kern	**text	**kern	**text	**kern	**text	**text	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*	*	*
+*I"Tenor	*	*I"Contratenor	*	*I"Cantus	*	*	*
+*I'T	*	*I'Ct	*	*I'Cn	*	*	*
+*clefGv2	*	*clefGv2	*	*clefG2	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*	*
+*M3/1	*	*M3/1	*	*M3/1	*	*	*
+*met(O)	*	*met(O)	*	*met(O)	*	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+!	!	!	!	!LO:TX:Z=9:t=Rondeau	!	!	!
+0d	1.4.7. A-	0D	1.4.7. A-	0d	1.4.7. A-	3. Je	5. De
+1c	.	1A	.	1e	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+0d	.	0D	.	1.f	.	.	.
+.	.	.	.	2e/	.	.	.
+1B-i	.	1d	.	2f/	.	.	.
+.	.	.	.	2d/	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+0A	.	0c	.	1e	.	.	.
+.	.	.	.	1r	.	.	.
+1G	.	1B-i	.	1g	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+0c	.	1A	.	2a/	.	.	.
+.	.	.	.	2b-i\	.	.	.
+.	.	1F	.	2a/	.	.	.
+.	.	.	.	2g/	.	.	.
+1B-i	.	1G	.	2g/	.	m'en	.
+.	.	.	.	2f/	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+0.A	-dieu	0D	-dieu,	1a	-dieu,	vois,	moy,
+.	.	.	.	1r	.	.	.
+.	.	1D	A-	1a	A-	Je	De
+=6	=6	=6	=6	=6	=6	=6	=6
+0.G	ces	1d	-dieu	1b-	-dieu	m'en	moy
+.	.	1r	.	1a	.	.	.
+.	.	1d	ces	1g	ces	vois	se-
+=7	=7	=7	=7	=7	=7	=7	=7
+0D	bon	1d	bon	0f	bon	tout	-res,
+.	.	1c	.	.	.	.	.
+1G	vins	1B	vins	1e	vins	cer-	par
+=8	=8	=8	=8	=8	=8	=8	=8
+0F	de	1.A	de	0d	de	-quant	plu-
+.	.	2G/	.	.	.	.	.
+1E	Lan-	2G/	Lan-	1c#i	Lan-	de	-sieurs
+.	.	2F/	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+0.D	-noys,	0A	-noys,	1d	-noys,	nois,	fois
+.	.	.	.	1r	.	.	.
+.	.	1d	A-	1f	A-	Car	Re-
+=10	=10	=10	=10	=10	=10	=10	=10
+0A	dieu	0c	-dieu	0e	-dieu	je	-gre-
+1B-i	da-	1d	da-	1d	da-	ne	-tes
+=11	=11	=11	=11	=11	=11	=11	=11
+0A	-mes	1e	-mes	0c	-mes	truis	par
+.	.	2d\	.	.	.	.	.
+.	.	1c	.	.	.	.	.
+1E	a-	.	.	1e	a-	fe-	de-
+.	.	2B\	a-	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+0F	-dieu	1A	-dieu	1d	-dieu	-ves	-dans
+.	.	1r	.	1c	.	.	.
+1G	bor-	1G	bor-	1B	bor-	ne	les
+=13	=13	=13	=13	=13	=13	=13	=13
+0A	-gois,	0D	-gois,	1A	-gois,	pois	bois,
+.	.	.	.	1r	.	.	.
+1D	A-	1F	A-	1A	A-	Dont	Ou
+=14	=14	=14	=14	=14	=14	=14	=14
+1G	-dieu	1E	-dieu	2B/	-dieu	bien	il
+.	.	.	.	2c/	.	.	.
+1F	cel-	1D	cel-	2d/	.	.	.
+.	.	.	.	2d/	cel-	sou-	ny
+1E	.	1G	.	2c#i/	.	.	.
+.	.	.	.	2B/	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15
+0D	-le	0A	-le	0d	-le	-vent	a
+1D	que	1A	que	1a	que	au	sen
+=16	=16	=16	=16	=16	=16	=16	=16
+0A	tant	0c	tant	1a	tant	cuer	tier
+.	.	.	.	1g	.	.	.
+1A	a-	1c	a-	1f	a-	m'en-	ne
+=17	=17	=17	=17	=17	=17	=17	=17
+0G	-moy-	0B	-moy-	1.e	-moy-	-noy-	voy-
+.	.	.	.	2d/	.	.	.
+1F	.	1A	.	2d/	.	.	.
+.	.	.	.	2c/	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18
+0.EN	-e,	2BN\	-e,	1eN	-e,	-e.	-e.&
+.	.	2A/	.	.	.	.	.
+.	.	2G/	.	1r	.	.	.
+.	.	2F/	.	.	.	.	.
+.	.	2G/	.	1r	.	.	.
+.	.	2E/	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+0.d	2.8. A-	1D	.	0.a	2.8. A-	6. Puis	.
+.	.	1r	.	.	.	.	.
+.	.	1F	2.8. A-	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+0e	-dieu	1E	-dieu	0g	-dieu	ne	.
+.	.	1C	tou-	.	.	.	.
+1d	tou-	1D	-te	1a	tou-	sca-	.
+=21	=21	=21	=21	=21	=21	=21	=21
+0G	-te	2r	.	1b	-te	-ray	.
+.	.	1E	plays-	.	.	.	.
+.	.	.	.	1cc	.	.	.
+.	.	2F/	.	.	.	.	.
+1d	plays-	1G	.	1b	plays-	que	.
+=22	=22	=22	=22	=22	=22	=22	=22
+0c	-san-	0A	-san-	0a	-san-	fai-	.
+1B-i	-te	1d	-te	1g	-te	-re	.
+=23	=23	=23	=23	=23	=23	=23	=23
+1A	joy-	1c	joy-	1a	joy-	doy-	.
+1G	.	1B-i	.	2r	.	.	.
+.	.	.	.	2d/	.	.	.
+1c	.	1A	.	2e/	.	.	.
+.	.	.	.	2f/	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+1B-i	.	1G	.	2g/	.	.	.
+.	.	.	.	2a/	.	.	.
+0A	.	0D	.	2g/	.	.	.
+.	.	.	.	2f#i/	.	.	.
+.	.	.	.	2f#i/	.	.	.
+.	.	.	.	2e/	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+0.G	-e,	0d	-e,	1g	-e,	-e,	.
+.	.	.	.	1r	.	.	.
+.	.	1d	A-	1g	A-	Se	.
+=26	=26	=26	=26	=26	=26	=26	=26
+0D	A-	1d	-dieu	1.a	-dieu	je	.
+.	.	1c	tous	.	.	.	.
+.	.	.	.	1.g	tous	ne	.
+1E	-dieu	1B	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27
+1F	tous	2A/	com-	1.f	com-	crie	.
+.	.	1D	.	.	.	.	.
+1G	com-	.	.	.	.	.	.
+.	.	1E	-pai-	1.e	-pai-	a	.
+1A	-pai-	.	.	.	.	.	.
+.	.	2F/	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28
+!	!	!LO:TX:X=-60:Z=32:t=Rest of voice now missing	!	!	!	!	!
+!	!	!LO:TX:X=-60:Z=8:t=in MS; editorial reconstr. by AP	!	!	!	!	!
+0B-	-gnons	0G	-gnons	1.d	-gnons	haul-	.
+.	.	.	.	1.c#i	ga-	-te	.
+1A	ga-	1A	ga-	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+1G	-lois.	1B-	-lois.	1d	-lois.	vois.	.
+0D	.	0A	.	2r	.	.	.
+.	.	.	.	2d/	.	.	.
+.	.	.	.	2f/	.	.	.
+.	.	.	.	2g/	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+0d	.	1D	.	1a	.	.	.
+.	.	2G/	.	2b-i\	.	.	.
+.	.	2A/	.	2a/	.	.	.
+1d	.	1B	.	2g/	.	.	.
+.	.	.	.	2f/	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+0A	.	0c	.	2e/	.	.	.
+.	.	.	.	2d/	.	.	.
+.	.	.	.	2e/	.	.	.
+.	.	.	.	2f/	.	.	.
+1G	.	1B	.	2g/	.	.	.
+.	.	.	.	2f/	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32
+0F	.	0A	.	2d/	.	.	.
+.	.	.	.	2A/	.	.	.
+.	.	.	.	2d/	.	.	.
+.	.	.	.	2e/	.	.	.
+1E	.	1G	.	2c#i/	.	.	.
+.	.	.	.	2B/	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+0.Dl	.	0.Al	.	0.dl	.	.	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: N=signum congruentiae
+!!!ENC:	Alejandro Planchart
+!!!END:	2016/03/18/
+!!!EED:	Jesse Rodin
+!!!EEV:	2016/03/18/
+!!!ONB:	Translated from SCORE and edited on 2016/03/18/ by Craig Sapp
+!!muse2ps: C^@{COM}^i2I150v105,105,130z18l2500c200

@@ -1,0 +1,72 @@
+!!!OPR:	Ave maris stella verse 4: Monstra te esse matrem
+!!!OTL:	chant
+!!!AGN:	Motet
+!!!SCT:	NJE 23.9
+!!!SCA:	New Josquin Edition 23.9
+!!!ONB: This is the chant which preceeds the hymn Jos2309 composed by Josquin.
+!!!voices:	1
+**kern	**text
+*staff1	*staff1
+*Ivox	*
+*I"Tenor	*
+*I'T	*
+*clefGv2	*
+*k[]	*
+*M6/1	*
+*met()	*
+*MM1200	*
+=1-	=1-
+!!LO:MD:P=C0&colon;p20
+0D	Sol-
+0A	-ve
+00B	.
+0G	vin-
+0A	-cla
+0B	.
+0c	re-
+0d	.
+0c	-is,
+0B	.
+0A	.
+00G	.
+=-	=-
+0A	Pro-
+0A	-fer
+0D	lu-
+0E	-men
+0G	.
+00F	ce-
+0E	.
+0D	-cis:
+=-	=-
+0r	.
+0F	Ma-
+0E	-la
+0G	no-
+0A	-stra
+00A	pel-
+0D	-le,
+0E	.
+0F	.
+0E	.
+00D	.
+0C	.
+=-	=-
+0r	.
+0E	bo-
+0G	-na
+0E	cun-
+0F	-cta
+0E	po-
+00D	-sce.
+=||	=||
+*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!ENC:	Jesse Rodin
+!!!END:	2013///
+!!!EED:	Jesse Rodin
+!!!EEV:	2016/04/04/
+!!attribution-level@Jos: 1 (secure)
+!!!ONB:	Translated from MusicXML and edited on 2016/04/04/ by Craig Sapp
+!!muse2ps: C^^i2I150v150Q16z21t260l2400
+!!muse2ps: T^@{OPR}^u^@{OTL}^
