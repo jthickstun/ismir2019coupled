@@ -1,4 +1,4 @@
-# ismir2019coupled
+# Coupled Recurrent Music Composition
 Experiments for [Coupled Recurrent Models for Polyphonic Music Composition](https://arxiv.org/abs/1811.08045).
 
 Corresponding author: [__John Thickstun__](https://homes.cs.washington.edu/~thickstn/). University of Washington
